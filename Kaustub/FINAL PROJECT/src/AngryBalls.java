@@ -1,4 +1,6 @@
-
+/*
+This was done by KC
+*/
   
 import org.lwjgl.input.Mouse;
 import org.newdawn.slick.GameContainer;
